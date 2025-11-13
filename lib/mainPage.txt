@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:powertools/pages/listWarranty.dart';
-import 'package:powertools/pages/submitWarranty.dart';
+import 'package:powertools/pages/listWarranty.txt';
+import 'package:powertools/pages/entryWarranty.txt';
 
 class Mainpage extends StatefulWidget {
   const Mainpage({super.key});
